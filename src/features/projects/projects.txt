@@ -1,0 +1,23 @@
+[
+  {
+    "id": "001",
+    "title": "Forecast Macro Chile",
+    "description": "A web application that allows users to visualize and forecast some macroeconomic series",
+    "imageUrl": "forecast.jpg",
+    "projectUrl": "https://forecast-macro-chile-loaded.netlify.app/plot"
+  },
+  {
+    "id": "002",
+    "title": "Causal Effect of Minimum Wage on Unemployment",
+    "description": "A causal estimation of the effect of sharp minimum wage increases in the unemployment rate",
+    "imageUrl": "event_study_sharp_mw.png",
+    "projectUrl": "https://causal-effectof-minimum-wageon-unem.vercel.app/"
+  },
+  {
+    "id": "003",
+    "title": "Local Event Scheduler",
+    "description": "A platform for local communities to publish and discover upcoming events, with RSVP features and calendar integration.",
+    "imageUrl": "https://example.com/images/event-scheduler.png",
+    "projectUrl": "https://eventscheduler.example.com"
+  }
+]
