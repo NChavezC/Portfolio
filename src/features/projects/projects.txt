@@ -10,7 +10,7 @@
     "id": "002",
     "title": "Causal Effect of Minimum Wage on Unemployment",
     "description": "A causal estimation of the effect of sharp minimum wage increases in the unemployment rate",
-    "imageUrl": "event_study_sharp_mw.png",
+    "imageUrl": "SupDemUnemp.png",
     "projectUrl": "https://causal-effectof-minimum-wageon-unem.vercel.app/"
   },
   {
