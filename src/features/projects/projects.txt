@@ -16,7 +16,7 @@
   {
     "id": "003",
     "title": "Credit Risk Classification Model (pending)",
-    "description": "A end-to-end product using a advanced classification model in order to recommend acceptance of rejection of loans",
+    "description": "A end-to-end product using a advanced classification model in order to recommend acceptance or rejection of loans",
     "imageUrl": "credit.png",
     "projectUrl": ""
   }
