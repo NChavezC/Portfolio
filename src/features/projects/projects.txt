@@ -15,9 +15,9 @@
   },
   {
     "id": "003",
-    "title": "Credit Risk Classification Model (pending)",
-    "description": "A end-to-end product using a advanced classification model in order to recommend acceptance or rejection of loans",
+    "title": "Credit Risk Classification Model",
+    "description": "A end-to-end product using a advanced classification model for optimization analysis",
     "imageUrl": "credit.png",
-    "projectUrl": ""
+    "projectUrl": "https://credit-risk-ten.vercel.app/"
   }
 ]
